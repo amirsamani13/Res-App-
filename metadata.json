@@ -1,0 +1,7 @@
+{
+  "name": "RestoSync AI Calendar",
+  "description": "A voice-powered, AI-integrated event calendar for restaurant management. Features real-time voice control, image generation for promotions, and deep-thinking scheduling assistance.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
